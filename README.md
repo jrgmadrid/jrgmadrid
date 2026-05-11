@@ -1,6 +1,8 @@
 ## sup
 
-building in public is cringe but then again so am i
+building in public is cringe but then again so am i.
+i like python but lately i am enjoying the vibe a lot more.
+expect really niche and self-indulgent apps. the only arr that matters is my own self-satisfaction.
 
 <!--
 **jrgmadrid/jrgmadrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
