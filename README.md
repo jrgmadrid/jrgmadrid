@@ -7,19 +7,19 @@ i like python but lately i am enjoying the vibe a lot more. i never learned to b
 expect really niche and self-indulgent apps and side projects. the only ARR that matters is my own self-satisfaction.
 
 
-## currently:
+### currently:
 
 on my hikkineet eat pray love arc. 
 
 
-## likes:
+### likes:
 
 * cool fonts
 * cute animals
 * learning languages
 
 
-## dislikes:
+### dislikes:
 
 * thinking you have "taste" just because you've read marcus aurelius once
 * self-implicating statements and self-owns
