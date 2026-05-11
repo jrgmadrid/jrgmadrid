@@ -1,22 +1,26 @@
 ## sup
 
-building in public is cringe but then again so am i.
+"building in public" is cringe but then again so am i.
 
-i like python but lately i am enjoying the vibe a lot more.
+i like python but lately i am enjoying the vibe a lot more. i never learned to build stuff just for me. maybe AI makes it easier to be conceited about that — anyway, i'll post here more often. maybe. no promises.
 
-expect really niche and self-indulgent apps. the only arr that matters is my own self-satisfaction.
+expect really niche and self-indulgent apps and side projects. the only ARR that matters is my own self-satisfaction.
 
-<!--
-**jrgmadrid/jrgmadrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+on my hikkineet eat pray love arc. 
+
+
+## likes:
+
+* cool fonts
+* cute animals
+* learning languages
+
+
+## dislikes:
+
+* thinking you have "taste" just because you've read marcus aurelius once
+* self-implicating statements and self-owns
+
