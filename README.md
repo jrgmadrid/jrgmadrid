@@ -1,4 +1,6 @@
-## Hi there 👋
+## sup
+
+building in public is cringe but then again so am i
 
 <!--
 **jrgmadrid/jrgmadrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
