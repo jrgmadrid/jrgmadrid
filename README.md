@@ -9,7 +9,7 @@ expect the experimental, the niche and the self-indulgent. the only ARR that mat
 
 ### currently:
 
-on my hikkineet eat pray love arc :) enjoying not having a manager, catching up on my reading, building tools nobody asked for, drinking espresso tonics.
+laying pipe (professionally), catching up on my reading, building tools nobody asked for, drinking espresso tonics.
 
 
 ### likes:
