@@ -1,25 +1,20 @@
 ## sup
 
-"building in public" is cringe but then again so am i.
+"building in public" is cringe, and i am that cringe.
 
-i like python but lately i am enjoying the vibe a lot more. i realized recently that i was always fixated on making stuff that sells that i never learned to build stuff just for me. maybe AI makes it easier to be conceited about that? anyway, i'll post here when i feel like it. parasocial labor on github isn't on my roadmap. (more of a 2027 kpi)
+i like python. but lately? vibes > syntax and it's not even close. i realized recently that i was always fixated on making stuff for employers that i never learned to build stuff just for me. maybe AI makes it easier to be conceited about that? or maybe software were the LLM tulpas we met along the way. 
 
-expect the experimental, the niche and the self-indulgent. the only ARR that matters is my own self-satisfaction.
-
+i have no interest in clout-farming on github of all places. parasocial labor isn't on my roadmap. it's more of a 2027 kpi. the only ARR that matters is my own self-satisfaction.
 
 ### currently:
-
-laying pipe (professionally), catching up on my reading, building tools nobody asked for, drinking espresso tonics.
-
+laying pipe, reading bourdieu, building tools nobody asked for, drinking espresso tonics. the hikkineet eat pray love arc is over, so now i'm focusing on my raison d'etre: turning unstructured data into actionable business insights.
 
 ### likes:
-
 * cute animals
 * learning languages
 * use value
 
 ### dislikes:
-
 * "taste" in software
 * thought leaders
 * shareholder value
