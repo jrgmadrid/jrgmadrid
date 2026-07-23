@@ -14,13 +14,12 @@ laying pipe (professionally), catching up on my reading, building tools nobody a
 
 ### likes:
 
-* cool fonts
 * cute animals
 * learning languages
-
+* use value
 
 ### dislikes:
 
-* thinking you have "taste" just because you read marcus aurelius once
-* self-aware cringe as a coping mechanism
-* the phrase "thought leader" and anyone who's ever used it unironically
+* "taste" in software
+* thought leaders
+* shareholder value
